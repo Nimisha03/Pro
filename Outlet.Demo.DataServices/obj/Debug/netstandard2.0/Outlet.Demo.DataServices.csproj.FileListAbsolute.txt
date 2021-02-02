@@ -1,0 +1,9 @@
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.DataServices\bin\Debug\netstandard2.0\Outlet.Demo.DataServices.deps.json
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.DataServices\bin\Debug\netstandard2.0\Outlet.Demo.DataServices.dll
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.DataServices\bin\Debug\netstandard2.0\Outlet.Demo.DataServices.pdb
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.DataServices\obj\Debug\netstandard2.0\Outlet.Demo.DataServices.csprojAssemblyReference.cache
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.DataServices\obj\Debug\netstandard2.0\Outlet.Demo.DataServices.AssemblyInfoInputs.cache
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.DataServices\obj\Debug\netstandard2.0\Outlet.Demo.DataServices.AssemblyInfo.cs
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.DataServices\obj\Debug\netstandard2.0\Outlet.Demo.DataServices.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.DataServices\obj\Debug\netstandard2.0\Outlet.Demo.DataServices.dll
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.DataServices\obj\Debug\netstandard2.0\Outlet.Demo.DataServices.pdb

@@ -1,0 +1,12 @@
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\bin\Debug\netstandard2.0\Outlet.Demo.DataServices.dll
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\obj\Debug\netstandard2.0\Outlet.Demo.BusinessServices.csprojAssemblyReference.cache
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\obj\Debug\netstandard2.0\Outlet.Demo.BusinessServices.AssemblyInfoInputs.cache
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\obj\Debug\netstandard2.0\Outlet.Demo.BusinessServices.AssemblyInfo.cs
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\bin\Debug\netstandard2.0\Outlet.Demo.BusinessServices.deps.json
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\bin\Debug\netstandard2.0\Outlet.Demo.BusinessServices.dll
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\bin\Debug\netstandard2.0\Outlet.Demo.BusinessServices.pdb
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\bin\Debug\netstandard2.0\Outlet.Demo.DataServices.pdb
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\obj\Debug\netstandard2.0\Outlet.Demo.BusinessServices.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\obj\Debug\netstandard2.0\Outlet.Demo.BusinessServices.csproj.CopyComplete
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\obj\Debug\netstandard2.0\Outlet.Demo.BusinessServices.dll
+C:\Users\MY PC\source\repos\Outlet.Demo\Outlet.Demo.BusinessServices\obj\Debug\netstandard2.0\Outlet.Demo.BusinessServices.pdb
