@@ -1,0 +1,168 @@
+.design ul{
+    /* background-color: grey;
+    font-size: 20px;
+    font-family: Cambria;
+    width:20%;
+    padding-left: 35px;
+    margin-top: 60px;
+        */
+   
+    padding:3px;
+    text-align: right;
+    background-color:grey;
+    
+    
+    
+}
+.design ul li{
+    display:inline;
+}
+
+.design ul li a{
+  text-decoration:none;
+  color:blue;
+  background-color: black;
+  padding:.2em 3em;
+ 
+}
+
+/* .new{
+    background-color: grey;
+    font-size: 50px;
+    font-family:  'Arial Narrow Bold';
+    margin-top: 15px;
+    text-align: center;
+    max-height:100px;
+    padding-bottom: 15px;
+    
+} */
+
+h1
+{
+    color:blue;
+    font-family: serif;
+    font-size: 50px;
+    padding-left: 150px;
+    margin-bottom: 8px;
+}
+h3
+{
+    color:grey;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    padding-left:650px ;
+    font-size:25px ;
+    margin-top: 8px;
+    
+    
+}
+
+.about
+{
+    width:100%;
+    background-color: grey;
+    min-height: 150px;
+    text-align: auto;
+    padding-top: 20px;
+    margin-top: 40px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+
+}
+
+#content
+{
+    padding-left:20px;
+    font-size: 20px;
+    
+}
+#heading
+{
+    padding-left:44%;
+    color:blue;
+    font-size: 30px;
+}
+
+.section
+{
+    width:90%;
+    background-color: grey;
+    min-height: 150px;
+    text-align: auto;
+    padding-top:5px;
+    margin-top: 40px;
+    margin-right: 25px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+    margin-left:18px;
+
+}
+
+.details
+{
+    padding-left: 5px;
+    padding-right: 20px;
+    font-size: 18px;
+    
+}
+#heading1
+{
+    padding-left:30%;
+    font-family: sans-serif;
+    color:blue;
+}
+#heading2
+{
+    padding-left:15px;
+    font-size: 20px;
+    color:lightblue;
+}
+
+.end
+{
+    text-align:right;
+    font-size:20px;
+    color:black;
+    margin-top:20px;
+    padding-top:10px;
+    background-color: darkgray;
+    padding-right: 40px;
+    border-radius: 25px;
+    width:80%;
+    margin-left:18px;
+    
+
+}
+
+h4{
+    font-size:25px;
+    margin-bottom:5px;
+    color:blue;
+}
+
+
+.float-child1 {
+    width: 50%;
+    float: left;
+    padding: 50px;
+    margin-top: 20px;
+    
+}  
+.float-child2 {
+    width: 50%;
+    
+    padding: 20px;
+    margin-left: 50%;
+     height: 100px;
+}  
+
+
+
+#details
+{
+    padding-bottom:15px;
+}
+
+img{
+    border-radius: 25px;
+}

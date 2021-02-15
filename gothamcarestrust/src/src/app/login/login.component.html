@@ -1,0 +1,31 @@
+<div class="head">
+  <h1>User Login</h1>
+  <br><br><br>
+ </div>
+
+ <div class="new"><h4>Enter Login Credentials!</h4></div>
+
+
+<div id="loginform" >
+<form #loginform="ngForm" 
+  (ngSubmit)="loginUser(loginform.value)">
+ 
+    <div class="input">
+      <label for= "uname">UserName</label>
+      <input type="text" name="uname" ngModel >
+    </div>
+
+    <div class="input">
+      <label for="psswrd">PassWord</label>
+      <input type="password" name="psswrd" ngModel >
+    </div>
+
+    <div id="a">
+      <button  type="submit" >Login
+      </button>
+    
+  </div>
+</form>
+
+
+

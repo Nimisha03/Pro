@@ -1,0 +1,59 @@
+form{
+    background-color: grey;
+    width:25%;
+    margin-top: 10px;
+    padding:40px 10px;
+}
+label{
+        
+    float :left;
+     width:150px;
+     text-align: right;
+     padding-right: 5px;
+     margin-top: 5px;
+    
+  }
+  
+  input,textarea{ margin-top: 5px;}
+  
+
+   button{
+      margin-left: 150px;
+      padding:8px 10px;
+      background-color:blue;
+   } 
+
+   .Search
+   {
+       padding-top: 20px;
+   }
+
+   .design{
+       background-color: grey;
+       padding-top: 15px;
+       padding-bottom: 15px;
+
+   }
+
+   .output
+   {
+       padding-left: 30px;
+       padding-top:20px ;
+       padding-bottom:30px ;
+       background-color: grey;
+       margin-top: 50px;
+       
+   }
+   h3{
+    font-family: 'Times New Roman';
+    font-size: 45px;
+    color:black;
+    padding-left:40%;
+   }
+
+   #main
+ {
+    display:flex;
+    justify-content: center;
+    margin-top:60px;
+ }

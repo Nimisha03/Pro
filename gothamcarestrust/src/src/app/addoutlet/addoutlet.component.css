@@ -1,0 +1,65 @@
+#form{
+    background-color: grey;
+    width:30%;
+    margin-top: 20px;
+    padding:25px 10px;
+   
+}
+    
+    .heading
+    {
+     background-color: grey;  
+     padding-top: 10px;
+     padding-bottom: 10px;
+    }
+    .new{
+        padding-left: 20px;
+        text-align:center;
+
+    }
+    
+    label{
+        
+      float :left;
+       width:150px;
+       text-align: right;
+       padding-right: 10px;
+       margin-top: 5px;
+      
+    }
+    
+    input,textarea,select{ margin-top: 5px;}
+    
+
+     #outlet{
+        margin-left: 150px;
+        padding:15px;
+     } 
+
+     #outlet{
+        padding-top: 15px;
+        width:100px
+    } 
+
+    button {
+        border: none;
+        background-color:blue;
+        padding:15px 15px;
+        text-align: center;
+        width: 100px;
+       
+      }
+
+      #main
+      {
+        display:flex;
+        justify-content: center;
+        margin-top:70px;
+      }
+
+     h3{
+    font-family: 'Times New Roman';
+    font-size: 45px;
+    color:black;
+    padding-left:42%;
+     }

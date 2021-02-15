@@ -1,0 +1,56 @@
+<div class="heading">
+    <h3>Edit Outlet</h3>
+</div>
+
+<div id="main">
+
+<form class="form" #editform="ngForm"
+  (submit)=editoutletdetails(editform.value)>
+    <div class="new">Enter Outlet-Id to be edited.<br><br>
+        <label for="id">Outlet-Id:</label>
+        <input type="number" name="id" ngModel><br><br><br>
+    </div>
+    <div>Enter updation detials.<br><br>
+        <label for="outletname">Outlet-Name:</label>
+        <input type="text" name="outletname" ngModel>
+    </div>
+
+    <div>
+        <label for="streetname">Street-Name:</label>
+        <input type="text" name="streetname" ngModel>
+    </div>
+
+    <div>
+        <label for="lmark">Landmark:</label>
+        <input type="text" name="lmark" ngModel>
+    </div>
+
+    
+
+    <div>
+        <label for="packet">No Of Packets:</label>
+        <input type="number" name="packet" ngModel>
+    </div>
+
+    <div>
+        <label for="volunteer">No Of Volunteers:</label>
+        <input type="number" name="volunteer" ngModel>
+    </div>
+
+    <div>
+        <label for="food">Food Type:</label>
+        <input type="text" name="food" ngModel>
+    </div>
+
+    <div>
+        <label for="date">Date:</label>
+        <input type="date" name="date" ngModel>
+    </div>
+
+    <div class="select">
+         <button type="submit">Edit</button>
+    </div>
+
+</form>
+</div>
+

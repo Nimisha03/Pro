@@ -1,0 +1,51 @@
+<div class="heading"><h3>Add Outlet</h3></div>
+<div id="main">
+<form id ="form" #loginform="ngForm" 
+ (submit)="outletadd(loginform.value)">
+ 
+    <div class="outlets">
+      <label for="oname">Outlet Name:</label>
+      <input type="text"  name="oname" ngModel>
+    </div>
+
+    <div class="outlets">
+      <label for="sname" >Street Name:</label>
+      <input type="text" name="sname" ngModel>
+    </div>
+
+    <div class="outlets">
+        <label for= "lmark">LandMark:</label>
+        <input type="text"  name="lmark" ngModel>
+    </div>
+
+      <div class="outlets">
+        <label for ="packets">Number Of Packets:</label>
+        <input type="number" name="packets" ngModel>
+    </div>
+    
+    <div class="outlets">
+        <label for="vol">Number Of Volunteers:</label>
+        <input type="number"  name="vol" ngModel>
+    </div>
+
+
+    <div class="outlets">
+        <label for ="type">Food Type:</label>
+        <select type="text"  name="type" ngModel>
+          <option>Veg</option>
+          <option>Non-Veg</option>
+          <option>Both</option>
+        </select>
+    </div>
+
+    <div class="outlets">
+        <label for="dates">Date:</label>
+        <input type="date" name="dates" ngModel>
+    </div>
+
+
+    <div id="outlet">
+      <button id="b" type="submit" >Add Outlet</button>
+    </div>  
+</form>
+</div>

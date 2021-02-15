@@ -1,0 +1,72 @@
+
+ input{
+    padding :10px 20px;
+    font-size: 15px;
+    outline:0;
+    width:150px;
+    }
+
+ label
+{
+  float:left;
+  width:150px;
+  text-align: right;
+  padding-right: 10px;
+  margin-top: 5px; 
+}
+
+button {
+  border: none;
+  background-color:blue;
+  padding:10px 10px;
+  text-align: center;
+  margin-left: 160px;
+  width:60px;
+  
+}
+
+#a{
+  padding-top: 25px;
+  width:150px;
+} 
+ h1{
+  font-family:'Times New Roman';
+  text-align: center;
+  font-style: bold;
+  font-size: 50px;
+}
+.head{
+  background-color: grey;
+  padding:5px 10px;
+  margin-top: 15px;
+  max-height: 150px;
+}
+h4{
+  color:blue;
+  font-size: 20px;
+  padding-left: 40px;
+  margin-bottom: 0px;
+  
+}
+
+form{
+  background-color: grey;
+  width:30%;
+  margin-top: 20px;
+  padding:25px 10px;
+ 
+}
+.new
+{
+  min-height: 50px;
+  padding: 10px ;
+  padding-left:32%;
+  
+}
+
+#loginform
+{
+  display:flex;
+  justify-content: center;
+  
+}

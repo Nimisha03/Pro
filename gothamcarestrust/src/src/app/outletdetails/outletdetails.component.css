@@ -1,0 +1,31 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 55px;
+  }
+
+  .head{
+      background-color: grey;
+      padding:5px 10px;
+      margin-top: 15px;
+      
+  }
+
+  th
+  {
+      color:blue;
+      font-size: 25px;
+      padding: 10px 15px;
+  }
+  td{
+      font-size: 25px;
+      padding: 10px 15px;
+      text-align: center;
+  }
+
+  h1{
+      font-family:'Times New Roman';
+      text-align: center;
+      font-style: bold;
+      font-size: 50px;
+  }

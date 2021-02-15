@@ -1,0 +1,29 @@
+<div class="design"><h3>Search Outlet </h3></div>
+<div id="main">
+<form id="form" #searchform="ngForm"
+ (submit)=outletsearch(searchform.value) >
+    <div>
+        <label for="id">Outlet-Id:</label>
+        <input type="id" placeholder="Select outlet id" name="id" ngModel>
+    </div>
+
+    <div class="Search">
+        <button type="submit"> Search </button>
+    </div>
+</form>
+</div>
+
+
+<div class="output">
+    <h1>Outlet Details:</h1>
+    <div>
+       Outlet name:{{outlets.outletName}} <br>
+       Street name:{{outlets.streetName}} <br>
+       Landmark:{{outlets.landmark}} <br>
+       Number of Packets:{{outlets.noOfPackets}} <br>
+       Number of Volunteers:{{outlets.noOfVolunteers}} <br>
+       Food Type:{{outlets.foodType}} <br>
+       Date:{{outlets.date}} <br>
+
+    </div>
+</div>

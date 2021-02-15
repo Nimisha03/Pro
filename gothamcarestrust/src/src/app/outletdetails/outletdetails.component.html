@@ -1,0 +1,26 @@
+<div class="head">
+ <h1> Outlet Details</h1>
+</div>
+
+<br><br><br>
+<table>
+   <tr>
+       <th>Outlet Name</th>
+       <th>Street Name</th>
+       <th>Landmark</th>
+       <th>Number of Packets</th>
+       <th>Number of Volunteers</th>
+       <th>Food Type</th>
+       <th>Date</th>
+   </tr>
+    <tr *ngFor="let outlet of outlets">
+        <td>{{outlet.outletName}}</td>
+        <td>{{outlet.streetName}}</td>
+        <td>{{outlet.landmark}}</td>
+        <td>{{outlet.noOfPackets}}</td>
+        <td>{{outlet.noOfVolunteers}}</td>
+        <td>{{outlet.foodType}}</td>
+        <td>{{outlet.date}}</td>
+    </tr>
+
+</table>

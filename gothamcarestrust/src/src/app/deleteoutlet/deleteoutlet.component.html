@@ -1,0 +1,16 @@
+<div class="design">
+    <h3>Delete Outlet</h3>
+</div>
+<div id="new">
+<form id="form" #deleteform="ngForm"
+ (submit)=deleteoutlet(deleteform.value) >
+    <div>
+        <label>Outlet-Id:</label>
+        <input type="id" placeholder="Select outlet id" name="id" ngModel>
+    </div>
+
+    <div class="delete">
+        <button type="submit">Delete</button>
+    </div>
+</form>
+</div>
